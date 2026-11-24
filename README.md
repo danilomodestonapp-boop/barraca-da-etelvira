@@ -2,7 +2,7 @@
 
 Moda feminina, Rua Angelo Consentino, Bairro Santa Rita, ao lado da pista de skate. Sábado das 7h às 17h e domingo das 7h às 12h. A cliente vê as peças, escolhe o tamanho e **reserva pelo WhatsApp**; a Etelvira confirma a disponibilidade e o preço, e a cliente retira na barraca. O site pode ser instalado no celular como app (PWA).
 
->  As reservas chegam no WhatsApp **(19) 99132-0025**, a central de pedidos das duas lojas.
+>  As reservas chegam no WhatsApp **(19) 99132-0025**.
 >
 > Endereço, horário, logo e fotos vieram do Instagram. Cidade (Leme-SP) e somente retirada confirmados. Os tamanhos de cada peça ainda são suposição (`CONFIRMAR`). Logo e fotos foram recortados de um print: trocar pelos originais em alta.
 

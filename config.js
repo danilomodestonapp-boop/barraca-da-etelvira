@@ -26,7 +26,7 @@ window.LOJA = {
   emoji: '👗',
   logo: 'fotos/logo.jpg', // recortado do Instagram; trocar pelo arquivo original em alta
 
-  // WhatsApp que RECEBE os pedidos (o mesmo para as duas lojas: atendimento centralizado)
+  // WhatsApp que RECEBE as reservas: 55 + DDD + número, só dígitos
   whatsapp: '5519991320025',
   whatsappExibicao: '(19) 99132-0025',
   instagram: 'barracadaetelvira',
