@@ -92,6 +92,7 @@ window.LOJA = {
     'primaria-escura': '#000000',
     secundaria: '#f1ede7',
     fundo: '#faf9f7',
+    'fonte-titulo': '"Playfair Display", Georgia, serif', // fonte dos títulos (carregada no index.html)
   },
 
   categorias: [
